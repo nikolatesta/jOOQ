@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnikolatesta%2FjOOQ.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnikolatesta%2FjOOQ?ref=badge_shield)
+
 jOOQ's reason for being - compared to JPA
 =========================================
 
@@ -27,3 +29,7 @@ SQL was never meant to be abstracted. To be confined in the narrow boundaries of
 For more details please visit [jooq.org](https://www.jooq.org).
 
 Follow jOOQ on [Twitter](https://twitter.com/JavaOOQ) and [the jOOQ blog](https://blog.jooq.org).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnikolatesta%2FjOOQ.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnikolatesta%2FjOOQ?ref=badge_large)
